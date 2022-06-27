@@ -1,0 +1,14 @@
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#adsad">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#auteur"/>
+    </owl:NamedIndividual>
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#spacy">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#logiciel"/>
+        <description_ressource>ddsadsadsadsad</description_ressource>
+        <nom_ressource>spacy</nom_ressource>
+        <site_ressource>spacy.com</site_ressource>
+        <a_pour_auteur rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#adsad"/>
+        <fait_la_tâche rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#correction des erreurs grammaticales"/>
+    </owl:NamedIndividual>
+            
