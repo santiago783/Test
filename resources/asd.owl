@@ -1,0 +1,14 @@
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#asd">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#auteur"/>
+    </owl:NamedIndividual>
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#asd">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#web api"/>
+        <description_ressource>asd</description_ressource>
+        <nom_ressource>asd</nom_ressource>
+        <site_ressource>asd</site_ressource>
+        <a_pour_auteur rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#asd"/>
+        <fait_la_tâche rdf:resource="http://www.semanticweb.org/ekolosok/ontologies/2022/2/atala-ontology#apprentissage multi-tâche"/>
+    </owl:NamedIndividual>
+            
